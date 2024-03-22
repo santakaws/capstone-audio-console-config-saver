@@ -1,4 +1,4 @@
-To run the dev enviornment
+To run the dev environment
 Install Docker Desktop
 Then run either bat file in Windows or use equivalent command in file for linux
 
